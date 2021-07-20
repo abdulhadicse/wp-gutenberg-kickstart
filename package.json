@@ -1,0 +1,15 @@
+{
+    "name": "wp-gutenberg-kickstart",
+    "version": "1.0.0",
+    "description": "A learning plugin for gutenberg block",
+    "main": "index.js",
+    "scripts": {
+        "start": "wp-scripts start",
+        "build": "wp-scripts build"
+    },
+    "author": "Abdul Hadi",
+    "license": "MIT",
+    "devDependencies": {
+        "@wordpress/scripts": "^16.1.2"
+    }
+}
